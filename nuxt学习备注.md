@@ -28,8 +28,6 @@
   },
   css: [
     'element-ui/lib/theme-chalk/index.css',
-    '~assets/css/reset.css',
-    '~assets/css/border.css',
     '~assets/css/public.less',
   ],
   plugins: [
