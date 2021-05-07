@@ -1,4 +1,5 @@
-axios.post(url,
+```
+ axios.post(url,
     {data: data},
     {
        headers: {
@@ -8,3 +9,5 @@ axios.post(url,
 )
 .then(res => fn)
 .catch(e => fn)
+```
+
