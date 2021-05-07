@@ -28,3 +28,9 @@
 .then(res => fn)
 .catch(e => fn)
 ```
+
+```
+  axios({
+    url: `url`,
+  }).then(info => fn)
+```
