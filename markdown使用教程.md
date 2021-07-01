@@ -35,3 +35,6 @@ header 1 | header 2
 ---|---
 row 1 col 1 | row 1 col 2
 row 2 col 1 | row 2 col 2
+
+![image](https://user-images.githubusercontent.com/7861157/124061530-94ea5480-da61-11eb-83e4-97e6617de9b1.png)
+
