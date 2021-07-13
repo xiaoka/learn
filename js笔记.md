@@ -11,3 +11,12 @@
 > toString()	把数组转换为字符串，并返回结果。<br>
 > unshift()	  向数组的开头添加一个或更多元素，并返回新的长度。<br>
 > valueOf()	  返回数组对象的原始值。<br>
+### string
+> concat()	    连接字符串。<br>
+> indexOf()	    检索字符串。<br>
+> lastIndexOf()	从后向前搜索字符串。<br>
+> slice()	      提取字符串的片断，并在新的字符串中返回被提取的部分。<br>
+> split()	      把字符串分割为字符串数组。<br>
+> toString()	  返回字符串。<br>
+> valueOf()	    返回某个字符串对象的原始值。<br>
+> length	      字符串的长度。<br>
