@@ -34,3 +34,8 @@
 > assign()	加载新的文档。<br>
 > reload()	重新加载当前文档。<br>
 > replace()	用新的文档替换当前文档。<br>
+### Object 对象方法
+> Object.keys(obj)	 获取对象的所有key到数组<br>
+> Object.values(obj) 获取对象的所有值到数组<br>
+> Object.assign(obj1,obj2,objn,....) 合并多个对象，key相同后面覆盖前面<br>
+> Object.create(obj) 以obj为原型生成一个新对象<br>
