@@ -20,3 +20,17 @@
 > toString()	  返回字符串。<br>
 > valueOf()	    返回某个字符串对象的原始值。<br>
 > length	      字符串的长度。<br>
+### History
+> back()	  加载 history 列表中的前一个 URL。<br>
+> forward()	加载 history 列表中的下一个 URL。<br>
+> go()	    加载 history 列表中的某个具体页面。<br>
+> Location
+> hash	    设置或返回从井号 (#) 开始的 URL（锚）。<br>
+> host	    设置或返回主机名和当前 URL 的端口号。<br>
+> hostname	设置或返回当前 URL 的主机名。<br>
+> href	    设置或返回完整的 URL。<br>
+> pathname	设置或返回当前 URL 的路径部分。<br>
+> search	  设置或返回从问号 (?) 开始的 URL（查询部分）。<br>
+> assign()	加载新的文档。<br>
+> reload()	重新加载当前文档。<br>
+> replace()	用新的文档替换当前文档。<br>
